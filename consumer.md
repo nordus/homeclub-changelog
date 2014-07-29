@@ -1,6 +1,3 @@
-homeclub-changelog
-==================
-
 # Changelog for HomeClub Consumer
 
 ## 0.1 (2014-08-01): Faster and more insightful reports
