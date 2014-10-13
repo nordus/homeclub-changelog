@@ -1,5 +1,11 @@
 # Changelog for HomeClub Consumer
 
+## 0.1.1 (2014-10-13)
+
+###Bugfixes
+* Chart width fixed
+
+
 ## 0.1 (2014-08-01): Faster and more insightful reports
 
 ###Features
