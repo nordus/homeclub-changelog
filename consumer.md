@@ -1,5 +1,11 @@
 # Changelog for HomeClub Consumer
 
+## 0.1.2 (2014-10-14)
+
+##Cosmetic
+* notifications timeout after 10 seconds
+* rename HomeBase to Network Hub
+
 ## 0.1.1 (2014-10-13)
 
 ###Bugfixes
